@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "model": "Sandero",
+    "brand": "Renault"
+  },
+  {
+    "id": 2,
+    "model": "Cerato",
+    "brand": "Kia"
+  }
+]
